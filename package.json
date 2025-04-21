@@ -1,0 +1,21 @@
+{
+  "name": "quark",
+  "version": "1.0.0",
+  "description": "QuarkUI is a lightweight, modern CSS framework that provides a robust set of components and utility classes for building responsive web applications. It's designed to be simple, flexible, and easy to use while following modern web development best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakibkhandev/quarkui.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/shakibkhandev/quarkui/issues"
+  },
+  "homepage": "https://github.com/shakibkhandev/quarkui#readme"
+}
